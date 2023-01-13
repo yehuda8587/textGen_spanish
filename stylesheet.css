@@ -1,0 +1,104 @@
+body {
+    background-color: #8ABAD3FF;
+    
+}
+
+option {
+    color:black;
+}
+
+::placeholder{
+    color: #FCF6F5FF;
+}
+
+.appBody{
+    background-color: white!important;
+
+}
+
+input{
+ border-color:#FCF6F5FF;
+ background-color: transparent;
+ border-width:0.5px;
+ border-radius: 7px;
+ text-align: center;
+ color:black;
+
+}
+select {
+    border-color:#FCF6F5FF;
+    background-color: transparent;
+    border-width:0.5px;
+    border-radius: 7px;
+    text-align: center;
+    color:#FCF6F5FF;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    -o-appearance:none;
+    appearance:none; 
+    padding: 3px 4px;
+ 
+   }
+
+   .spaSelection select{
+       font-weight: 500;
+       font-size: 1.2rem;
+       border: 1px solid #28334AFF;
+       background-color: #28334AFF;
+       color: #FCF6F5FF;
+   }
+
+
+
+.main-nav {
+    /* position: fixed;
+    top:0;
+    left: 0;
+    z-index: 900; */
+    background-color: #8ABAD3FF;
+    color:#FCF6F5FF;
+}
+
+
+.submitBtn {
+    width: 25%!important;
+    background-color: #FCF6F5FF!important;
+    border-width: 1px;
+    border-radius: 10px;
+    color: #494949!important;
+    border-color: #FCF6F5FF!important;
+    font-size: 1.1rem!important;
+}
+
+.texts-wrapper{
+    padding-top:400px;
+
+}
+
+.textsAccordion {
+    font-size: 1rem!important;
+}
+
+.accordion-button {
+    font-size: 1.3rem!important;
+    background-color: #8ABAD3FF!important;
+    color: #FCF6F5FF !important;;
+}
+
+.copy-udi {
+    font-size: 1.3rem;
+    border-radius: 50%;
+    border-width: 1px;
+    background-color: #5E82AD;
+    border-color: #494949;
+    color:#FCF6F5FF;
+
+}
+
+.hide{
+    display: none;
+}
+
+.inlineBlock {
+    display: inline-block;
+}
