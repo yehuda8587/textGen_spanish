@@ -128,8 +128,8 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bellisima-cf-ledpromo";
                upDatedSpaPhone = "(939) 206-5465";
                upDatedDurationTotal = "60 Minutos";
-               upDatedDurationOne = "- 5 a 10 minutos de limpieza";
-               upDatedDurationTwo = "- 50 a 55 minutos de tratamiento LED antienvejecimiento y consulta";
+               upDatedDurationOne = "- 5 a 10 Minutos Limpieza Profunda de la Piel";
+               upDatedDurationTwo = "- 50 a 55 Minutos Sesión de Luz LED y Consulta";
                promoPrice = "79.95"
                upDatedActualSpaPhone = "¿No encuentras nuestro spa? Llámenos al (787) 751-6695";
                break; 
