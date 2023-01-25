@@ -123,7 +123,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
 
             case "Bellisima C&F":
                 upDatedSpaName = "Bellisima C&F Spa";
-               upDatedSpaAddress = "525 Franklin D. Roosevelt San Juan, PR 00918"+"<br>"+"(Plaza Las Americas, Segunda Planta frente a TOUS)";
+               upDatedSpaAddress = "525 Franklin D. Roosevelt San Juan, PR 00918"+"<br>"+"(Entre JCPenny y Macy's - PRIMER NIVEL JUSTO FRENTE A CHICOS Y SOMA)";
                upDatedSpaLINK = "https://forms.gle/jZo1pD4sBcM41gMU9";
                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bellisima-cf-ledpromo";
                upDatedSpaPhone = "(939) 206-5465";
