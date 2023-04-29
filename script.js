@@ -133,6 +133,19 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                promoPrice = "79.95"
                upDatedActualSpaPhone = "¿No encuentras nuestro spa? Llámenos al (787) 751-6695";
                break; 
+
+               case "Hermetise Ponce":
+                upDatedSpaName = "Bellisima C&F Spa";
+               upDatedSpaAddress = "2050 ponce by pass, Ponce, PR 00716"+"<br>"+"(Plaza Del Caribe, First Floor Next to Pandora)";
+               upDatedSpaLINK = "https://forms.gle/a9FC9FzgrDvpvLZg9";
+               upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hermetise-clinica-ledpromo";
+               upDatedSpaPhone = "(939) 303-2305";
+               upDatedDurationTotal = "60 Minutos";
+               upDatedDurationOne = "- 25 Minutos Limpieza Profunda de la Piel";
+               upDatedDurationTwo = "- 35 Minutos Sesión de Luz LED y Consulta";
+               promoPrice = "79.95"
+               upDatedActualSpaPhone = "¿No encuentras nuestro spa? Llámenos al (787) 840-8882";
+               break; 
                                 
          default:
              break;
