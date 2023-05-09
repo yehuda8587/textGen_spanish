@@ -135,8 +135,8 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                break; 
 
                case "Hermetise Ponce":
-                upDatedSpaName = "Bellisima C&F Spa";
-               upDatedSpaAddress = "2050 ponce by pass, Ponce, PR 00716"+"<br>"+"(Plaza Del Caribe, First Floor Next to Pandora)";
+                upDatedSpaName = "Hermetise Bellisima C&F Spa";
+               upDatedSpaAddress = "2050 Ponce By Pass, Ponce, PR 00716"+"<br>"+"(Plaza Del Caribe, Primer Nivel al lado a Pandora)";
                upDatedSpaLINK = "https://forms.gle/a9FC9FzgrDvpvLZg9";
                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hermetise-clinica-ledpromo";
                upDatedSpaPhone = "(939) 303-2305";
