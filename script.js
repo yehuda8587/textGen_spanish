@@ -123,7 +123,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
 
             case "Bellisima C&F":
                 upDatedSpaName = "Bellisima C&F Spa";
-               upDatedSpaAddress = "525 Franklin D. Roosevelt San Juan, PR 00918"+"<br>"+"(Entre JCPenny y Macy's - PRIMER NIVEL JUSTO FRENTE A CHICOS Y SOMA)";
+               upDatedSpaAddress = "Plaza Las Americas"+"<br>"+"525 Franklin D. Roosevelt San Juan, PR 00918"+"<br>"+"(Entre JCPenny y Macy's - PRIMER NIVEL JUSTO FRENTE A CHICOS Y SOMA)";
                upDatedSpaLINK = "https://forms.gle/jZo1pD4sBcM41gMU9";
                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bellisima-cf-ledpromo";
                upDatedSpaPhone = "(939) 206-5465";
@@ -136,7 +136,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
 
                case "Hermetise Ponce":
                 upDatedSpaName = "Hermetise Bellisima C&F Spa";
-               upDatedSpaAddress = "2050 Ponce By Pass, Ponce, PR 00716"+"<br>"+"(Plaza Del Caribe, Primer Nivel al lado a Pandora)";
+               upDatedSpaAddress = "Plaza Del Caribe"+"<br>"+"2050 Ponce By Pass, Ponce, PR 00716"+"<br>"+"(Plaza Del Caribe, Primer Nivel al lado a Pandora)";
                upDatedSpaLINK = "https://forms.gle/a9FC9FzgrDvpvLZg9";
                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hermetise-clinica-ledpromo";
                upDatedSpaPhone = "(939) 303-2305";
