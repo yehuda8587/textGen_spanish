@@ -146,6 +146,19 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                promoPrice = "79.95"
                upDatedActualSpaPhone = "¿No encuentras nuestro spa? Llámenos al (787) 840-8882";
                break; 
+
+               case "Esthetix Raleigh":
+                upDatedSpaName = "Esthetix Raleigh";
+               upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh, NC 27612"+"<br>"+"(2nd floor, next to Johnston & Murphy)";
+               upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
+               upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-new-promo-page";
+               upDatedSpaPhone = "(984) 205-6033";
+               upDatedDurationTotal = "60 Minutos";
+               upDatedDurationOne = "- 25 minutos de limpieza";
+               upDatedDurationTwo = "- 20 minutos de tratamiento LED anti-envejecimiento y 15 minutos de consulta personalizada";
+               promoPrice = "79.95"
+               upDatedActualSpaPhone = "¿No encuentras nuestro spa? Llámenos al (919) 900-8271";
+               break; 
                                 
          default:
              break;
