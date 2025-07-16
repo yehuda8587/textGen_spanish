@@ -2287,6 +2287,23 @@
                                     insteadOfSpa = "$375"
                                     break;
 
+                case "Velora Med Spa Facial Reafirmante $79.95":
+                                upDatedSpaName = "Velora Med Spa";
+                                upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
+                                upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/spn-velora-med-spa-rearfima-tu-piel-79-95-377";
+                                upDatedSpaPhone = "(312) 625-1275";
+                                upDatedDurationTotal = "45 Minutos";
+                                upDatedDurationOne = " - 15 minutes de Limpieza ";
+                                upDatedDurationTwo = " - 30 minutos de Facial Reafirmante & Consulta";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "¿No encuentras tu spa? Llámanos al (331) 600-2304";
+                                treatmentSelected = "Facial Reafirmante";
+                                newSpaPhoneNumberSelected = "(331) 600-2304";
+                                insteadOfSpa = "$377"
+                                break;
+
 
                                             
 
