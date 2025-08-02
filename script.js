@@ -2305,7 +2305,22 @@
                                 break;
 
 
-                                            
+                                case "Parie Med Spa Tratamiento Reafirmante $69.95":
+                                upDatedSpaName = "Parie Med Spa";
+                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                upDatedSpaLINK = " ";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-reafirmante-de-piel-69-95" ;
+                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutos Limpieza";
+                                upDatedDurationTwo = "- 30 minutos de Facial Reafirmante & Consulta and 15 minutes post-care and consutla";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "¿No encuentras tu spa? Llámanos al (702) 930-6221";
+                                treatmentSelected = "Tratamiento Reafirmante";
+                                newSpaPhoneNumberSelected = "(702) 930-6221";
+                                insteadOfSpa = "$377"
+                                break;      
 
                                         
                                         
