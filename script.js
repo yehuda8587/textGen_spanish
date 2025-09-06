@@ -2310,7 +2310,7 @@
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/pXZJ1Cev4GvcFLuh7";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-reafirmante-de-piel-69-95";
-                                upDatedSpaPhone = "(281) 598-2983";
+                                upDatedSpaPhone = "(281) 675-2651";
                                 upDatedDurationTotal = "60 Minutos";
                                 upDatedDurationOne = " - 15 minutos Cleansing";
                                 upDatedDurationTwo = " - 30 minutos de tu Tratamiento Reafirmante y 15 minutos de Consulta";
