@@ -2298,12 +2298,28 @@
                                 upDatedDurationOne = " - 15 minutes de Limpieza ";
                                 upDatedDurationTwo = " - 30 minutos de Facial Reafirmante & Consulta";
                                 promoPrice = "79.95";
-                                upDatedActualSpaPhone = "¿No encuentras tu spa? Llámanos al (331) 600-2304";
+                                upDatedActualSpaPhone = "¿No encuentras el spa? Llámanos al (331) 600-2304";
                                 treatmentSelected = "Facial Reafirmante";
                                 newSpaPhoneNumberSelected = "(331) 600-2304";
                                 insteadOfSpa = "$377"
                                 break;
 
+                 case "Dermalogy Med Spa Tratamiento Reafirmante $79.95":
+                                upDatedSpaName = "Dermalogy Med Spa";
+                                upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
+                                upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/pXZJ1Cev4GvcFLuh7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-reafirmante-de-piel-69-95";
+                                upDatedSpaPhone = "(281) 598-2983";
+                                upDatedDurationTotal = "60 Minutos";
+                                upDatedDurationOne = " - 15 minutos Cleansing";
+                                upDatedDurationTwo = " - 30 minutos de tu Tratamiento Reafirmante y 15 minutos de Consulta";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "¿No encuentras el spa? Llámanos al (281) 818-2149";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(281) 818-2149";
+                                insteadOfSpa = "$377"
+                                break;
 
                                 case "Parie Med Spa Tratamiento Reafirmante $69.95":
                                 upDatedSpaName = "Parie Med Spa";
@@ -2316,7 +2332,7 @@
                                 upDatedDurationOne = "- 15 minutos Limpieza";
                                 upDatedDurationTwo = "- 30 minutos de Facial Reafirmante & Consulta and 15 minutes post-care and consutla";
                                 promoPrice = "69.95";
-                                upDatedActualSpaPhone = "¿No encuentras tu spa? Llámanos al (702) 930-6221";
+                                upDatedActualSpaPhone = "¿No encuentras el spa? Llámanos al (702) 930-6221";
                                 treatmentSelected = "Tratamiento Reafirmante";
                                 newSpaPhoneNumberSelected = "(702) 930-6221";
                                 insteadOfSpa = "$377"
