@@ -2308,7 +2308,7 @@
                                 upDatedSpaName = "Dermalogy Med Spa";
                                 upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/pXZJ1Cev4GvcFLuh7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-reafirmante-de-piel-69-95";
                                 upDatedSpaPhone = "(281) 675-2651";
                                 upDatedDurationTotal = "60 Minutos";
