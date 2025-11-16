@@ -2329,7 +2329,7 @@
                                 upDatedSpaLINK = "https://forms.gle/rhiM1BTkhQpHbNNh6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/4amkjk5avemYaEw9A";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/terra-alma-rejuvenecimiento-facial-799";
-                                upDatedSpaPhone = "";
+                                upDatedSpaPhone = "(334) 161 0814";
                                 upDatedDurationTotal = "60 Minutos";
                                 upDatedDurationOne = " - 15 minutos de Limpieza";
                                 upDatedDurationTwo = " - 30 minutos del tratamiento de Rejuvenecimiento Facial y 15 minutos de consulta personalizada.";
