@@ -2346,17 +2346,70 @@
                                 upDatedSpaAddress = "PUNTO SAO PAULO ,São Paulo 1912, Providencia, 44630 Guadalajara, Jal."+"<br>"+"(Planta baja frente a Monocolo Café)";
                                 upDatedSpaLINK = "https://forms.gle/rhiM1BTkhQpHbNNh6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/4amkjk5avemYaEw9A";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/terra-alma-rejuvenecimiento-facial-799";
+                                upDatedSpaWebLINK = "https://terraalma.firstouchbeauty.com/Rejuvenecimiento-book";
                                 upDatedSpaPhone = "(334) 161 0814";
                                 upDatedDurationTotal = "60 Minutos";
                                 upDatedDurationOne = " - 15 minutos de Limpieza";
                                 upDatedDurationTwo = " - 30 minutos del tratamiento de Rejuvenecimiento Facial y 15 minutos de consulta personalizada.";
                                 promoPrice = "799";
                                 upDatedActualSpaPhone = "¿No encuentras el spa? Llámanos al (331) 075 0940";
-                                treatmentSelected = "Natural Facelift Treatment";
+                                treatmentSelected = "Rejuvenecimiento Facial";
                                 newSpaPhoneNumberSelected = "(331) 075 0940";
                                 insteadOfSpa = "$3770"
                                 break;
+
+                                case "Terra Alma Beauty Clinic Rejuvenecimiento Facial $1100 MXN":
+                                upDatedSpaName = "Terra Alma Beauty Clinic";
+                                upDatedSpaAddress = "PUNTO SAO PAULO ,São Paulo 1912, Providencia, 44630 Guadalajara, Jal."+"<br>"+"(Planta baja frente a Monocolo Café)";
+                                upDatedSpaLINK = "https://forms.gle/rhiM1BTkhQpHbNNh6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/4amkjk5avemYaEw9A";
+                                upDatedSpaWebLINK = "https://terraalma.firstouchbeauty.com/rejuvenecimiento-book-1100";
+                                upDatedSpaPhone = "(334) 161 0814";
+                                upDatedDurationTotal = "60 Minutos";
+                                upDatedDurationOne = " - 15 minutos de Limpieza";
+                                upDatedDurationTwo = " - 30 minutos del tratamiento de Rejuvenecimiento Facial y 15 minutos de consulta personalizada.";
+                                promoPrice = "1100";
+                                upDatedActualSpaPhone = "¿No encuentras el spa? Llámanos al (331) 075 0940";
+                                treatmentSelected = "Rejuvenecimiento Facial";
+                                newSpaPhoneNumberSelected = "(331) 075 0940";
+                                insteadOfSpa = "$3770"
+                                break;
+
+
+                                case "Terra Alma Beauty Clinic Facial Hidro-Iluminante $1000 MXN":
+                                upDatedSpaName = "Terra Alma Beauty Clinic";
+                                upDatedSpaAddress = "PUNTO SAO PAULO ,São Paulo 1912, Providencia, 44630 Guadalajara, Jal."+"<br>"+"(Planta baja frente a Monocolo Café)";
+                                upDatedSpaLINK = "https://forms.gle/rhiM1BTkhQpHbNNh6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/4amkjk5avemYaEw9A";
+                                upDatedSpaWebLINK = "https://terraalma.firstouchbeauty.com/hidro-iluminante-book";
+                                upDatedSpaPhone = "(334) 161 0814";
+                                upDatedDurationTotal = "60 Minutos";
+                                upDatedDurationOne = " - 15 minutos de Limpieza";
+                                upDatedDurationTwo = " - 30 minutos del Facial Hidro-Iluminante y 15 minutos de consulta personalizada.";
+                                promoPrice = "1000";
+                                upDatedActualSpaPhone = "¿No encuentras el spa? Llámanos al (331) 075 0940";
+                                treatmentSelected = "Facial Hidro-Iluminante";
+                                newSpaPhoneNumberSelected = "(331) 075 0940";
+                                insteadOfSpa = "$3770"
+                                break;
+
+                                case "Terra Alma Beauty Clinic Tratamiento Reafirmante de Ojos $1200 MXN":
+                                upDatedSpaName = "Terra Alma Beauty Clinic";
+                                upDatedSpaAddress = "PUNTO SAO PAULO ,São Paulo 1912, Providencia, 44630 Guadalajara, Jal."+"<br>"+"(Planta baja frente a Monocolo Café)";
+                                upDatedSpaLINK = "https://forms.gle/rhiM1BTkhQpHbNNh6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/4amkjk5avemYaEw9A";
+                                upDatedSpaWebLINK = "https://terraalma.firstouchbeauty.com/form-page-tratamiento-reafirmante-de-ojos-1200";
+                                upDatedSpaPhone = "(334) 161 0814";
+                                upDatedDurationTotal = "60 Minutos";
+                                upDatedDurationOne = " - 15 minutos de Limpieza";
+                                upDatedDurationTwo = " - 30 minutos del Tratamiento Reafirmante de Ojos y 15 minutos de consulta personalizada.";
+                                promoPrice = "1200";
+                                upDatedActualSpaPhone = "¿No encuentras el spa? Llámanos al (331) 075 0940";
+                                treatmentSelected = "Tratamiento Reafirmante de Ojos";
+                                newSpaPhoneNumberSelected = "(331) 075 0940";
+                                insteadOfSpa = "$3770"
+                                break;
+
 
                 
                                 case "Parie Med Spa Tratamiento Reafirmante $69.95":
