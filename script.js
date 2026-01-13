@@ -2375,6 +2375,23 @@
                                 insteadOfSpa = "$3770"
                                 break;
 
+                                 case "Terra Alma Beauty Clinic Protocolo de Rejuvenecimiento Facial Masculino $1200 MXN":
+                                upDatedSpaName = "Terra Alma Beauty Clinic";
+                                upDatedSpaAddress = "PUNTO SAO PAULO ,São Paulo 1912, Providencia, 44630 Guadalajara, Jal."+"<br>"+"(Planta baja frente a Monocolo Café)";
+                                upDatedSpaLINK = "https://forms.gle/rhiM1BTkhQpHbNNh6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/4amkjk5avemYaEw9A";
+                                upDatedSpaWebLINK = "https://terraalma.firstouchbeauty.com/rejuvenecimiento-facial-masculino-1200";
+                                upDatedSpaPhone = "(334) 161 0814";
+                                upDatedDurationTotal = "60 Minutos";
+                                upDatedDurationOne = " - 15 minutos de Limpieza";
+                                upDatedDurationTwo = " - 30 minutos del tratamiento de Rejuvenecimiento Facial y 15 minutos de consulta personalizada.";
+                                promoPrice = "1200";
+                                upDatedActualSpaPhone = "¿No encuentras el spa? Llámanos al (331) 075 0940";
+                                treatmentSelected = "Protocolo de Rejuvenecimiento Facial Masculino";
+                                newSpaPhoneNumberSelected = "(331) 075 0940";
+                                insteadOfSpa = "$3770"
+                                break;
+
 
                                 case "Terra Alma Beauty Clinic Facial Hidro-Iluminante $1000 MXN":
                                 upDatedSpaName = "Terra Alma Beauty Clinic";
