@@ -2445,6 +2445,23 @@
                                 insteadOfSpa = "$3770"
                                 break;
 
+                                case "Terra Alma Beauty Clinic Tratamiento Reductivo $1100 MXN":
+                                upDatedSpaName = "Terra Alma Beauty Clinic";
+                                upDatedSpaAddress = "PUNTO SAO PAULO ,São Paulo 1912, Providencia, 44630 Guadalajara, Jal."+"<br>"+"(Planta baja frente a Monocolo Café)";
+                                upDatedSpaLINK = "https://forms.gle/rhiM1BTkhQpHbNNh6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/4amkjk5avemYaEw9A";
+                                upDatedSpaWebLINK = "https://terraalma.firstouchbeauty.com/tratamiento-reductivo-booking-page-1100";
+                                upDatedSpaPhone = "(334) 161 0814";
+                                upDatedDurationTotal = "60 Minutos";
+                                upDatedDurationOne = " - ";
+                                upDatedDurationTwo = " - 45 minutos del Tratamiento Reductivo y 15 minutos de consulta personalizada.";
+                                promoPrice = "1,100";
+                                upDatedActualSpaPhone = "¿No encuentras el spa? Llámanos al (331) 075 0940";
+                                treatmentSelected = "Tratamiento Reductivo";
+                                newSpaPhoneNumberSelected = "(331) 075 0940";
+                                insteadOfSpa = "$7,995"
+                                break;
+
                                  case "Terra Alma Beauty Clinic Protocolo Reafirmante (Cuello y Mandíbula) $1000 MXN":
                                 upDatedSpaName = "Terra Alma Beauty Clinic";
                                 upDatedSpaAddress = "PUNTO SAO PAULO ,São Paulo 1912, Providencia, 44630 Guadalajara, Jal."+"<br>"+"(Planta baja frente a Monocolo Café)";
