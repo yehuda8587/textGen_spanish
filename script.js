@@ -2495,6 +2495,23 @@
                                 newSpaPhoneNumberSelected = "(331) 075 0940";
                                 insteadOfSpa = "$3770"
                                 break;
+
+                                case "Terra Alma Beauty Clinic Plasma Frío $1100 MXN":
+                                upDatedSpaName = "Terra Alma Beauty Clinic";
+                                upDatedSpaAddress = "PUNTO SAO PAULO ,São Paulo 1912, Providencia, 44630 Guadalajara, Jal."+"<br>"+"(Planta baja frente a Monocolo Café)";
+                                upDatedSpaLINK = "https://forms.gle/rhiM1BTkhQpHbNNh6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/4amkjk5avemYaEw9A";
+                                upDatedSpaWebLINK = "https://terraalma.firstouchbeauty.com/plasma-frio--1100-book";
+                                upDatedSpaPhone = "(334) 161 0814";
+                                upDatedDurationTotal = "60 Minutos";
+                                upDatedDurationOne = " - 15 minutos de Limpieza";
+                                upDatedDurationTwo = " - 30 minutos del Plasma Frío y 15 minutos de consulta personalizada.";
+                                promoPrice = "1100";
+                                upDatedActualSpaPhone = "¿No encuentras el spa? Llámanos al (331) 075 0940";
+                                treatmentSelected = "Plasma Frío";
+                                newSpaPhoneNumberSelected = "(331) 075 0940";
+                                insteadOfSpa = "$3770"
+                                break;
                 
                                 case "Parie Med Spa Tratamiento Reafirmante $69.95":
                                 upDatedSpaName = "Parie Med Spa";
