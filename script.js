@@ -2086,6 +2086,23 @@
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Velora Med Spa Rejuvenecimiento Facial $79.95":
+                                upDatedSpaName = "Velora Med Spa";
+                                upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
+                                upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
+                                upDatedSpaWebLINK = "https://velora.advancedbeautytreatments.com/tratamiento-reafirmante-79-95-booking-page";
+                                upDatedSpaPhone = "(312) 625-1275";
+                                upDatedDurationTotal = "45 Minutos";
+                                upDatedDurationOne = " - 15 minutes de Limpieza ";
+                                upDatedDurationTwo = " - 30 minutos de Rejuvenecimiento Facial & Consulta";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "¿No encuentras el spa? Llámanos al (331) 600-2304";
+                                treatmentSelected = "Rejuvenecimiento Facial";
+                                newSpaPhoneNumberSelected = "(331) 600-2304";
+                                insteadOfSpa = "$377"
+                                break;
+
                  case "Dermalogy Med Spa Tratamiento Reafirmante $79.95":
                                 upDatedSpaName = "Dermalogy Med Spa";
                                 upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
