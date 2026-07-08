@@ -2000,6 +2000,23 @@
                                     insteadOfSpa = "$359"
                                     break;
 
+                                    case "Well Era Protocolo Reafirmante (Cuello y Mandíbula) $79":
+                                    upDatedSpaName = "Well Era";
+                                    upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Ubicado en el segundo piso de la plaza, justo arriba del restaurante Renny’s)";
+                                    upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+                                    upDatedSpaWebLINK = "https://wellera.noneedleneeded.com/reafirmante-cuello-mandibula-79-booking";
+                                    upDatedSpaPhone = "(972) 866-4612";
+                                    upDatedDurationTotal = "60 Minutos";
+                                    upDatedDurationOne = "- 45 minutos del Tratamiento de Protocolo Reafirmante (Cuello y Mandíbula)";
+                                    upDatedDurationTwo = "- 15 minutos Consulta";
+                                    promoPrice = "79";
+                                    upDatedActualSpaPhone = "¿No encuentras el spa? Llámamos al : (214) 238-6896";
+                                    treatmentSelected = "Tratamiento de Protocolo Reafirmante (Cuello y Mandíbula)";
+                                    newSpaPhoneNumberSelected = "(214) 238-6896";
+                                    insteadOfSpa = "$349"
+                                    break;
+
 
                                     case "Vein Vascular Clinic Goodbye Spider Vein $99.95":
                                     upDatedSpaName = "Vein Vascular Clinic";
