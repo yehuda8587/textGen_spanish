@@ -507,6 +507,23 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                     case "Pearl De Flore Augusta Natural Facelift $69.95":
+                                        upDatedSpaName = "Pearl De Flore Spa";
+                                    upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor, beside Lovisa and near the elevator in the middle of the mall)";
+                                    upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
+                                    upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/natural-facelift-69-95-book-page";
+                                    upDatedSpaPhone = "(706) 524-8251";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment" + "<br>" + "- 15 minutes of Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "¿No encuentras el spa? Llámamos al : (762) 383-5302";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(762) 383-5302";
+                                    insteadOfSpa = "$249";
+                                    break; 
+
                                     case "GreenBiotics Ross Park Mall Natural Facelift $79.95":
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Ross Park Mall,"+"<br>"+"1000 Ross Park Mall Dr. Pittsburgh PA 15237"+"<br>"+"(Unit K14, Second floor near Macy’s, right across Auntie Anne's)";
